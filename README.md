@@ -36,7 +36,7 @@ Example App is a Spring Boot application designed to demonstrate a simple web ap
     mvn spring-boot:run
     ```
 
-4. Access the application at `http://localhost:8080`.
+4. Access the application at `http://localhost:1026`.
 
 ## Running Tests
 
